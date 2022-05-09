@@ -25,15 +25,15 @@ function App() {
     },
     {
       nome: 'UX e Design',
-      fundo: ''
+      fundo: '#FEFFE1'
     },
     {
       nome: 'Mobile',
-      fundo: ''
+      fundo: '#E1E2FF'
     },
     {
       nome: 'Inovação e Gestão',
-      fundo: ''
+      fundo: '#FFE8DB'
     },
   ]
 
