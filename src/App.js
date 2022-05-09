@@ -9,31 +9,31 @@ function App() {
   const times = [
     {
       nome: 'Programação',
-      fundo: '#00C86F'
+      fundo: '#C3E1D4'
     },
     {
       nome: 'Front-End',
-      fundo: '#68D1FF'
+      fundo: '#D3E2E9'
     },
     {
       nome: 'Data Science',
-      fundo: '#9CD33B'
+      fundo: '#DAE3CC'
     },
     {
       nome: 'Devops',
-      fundo: '#F16165'
+      fundo: '#E7D2D2'
     },
     {
       nome: 'UX e Design',
-      fundo: '#DC6EBE'
+      fundo: '#E4D3DF'
     },
     {
       nome: 'Mobile',
-      fundo: '#FFBA05'
+      fundo: '#E9DFC4'
     },
     {
       nome: 'Inovação e Gestão',
-      fundo: '#FF8C2A'
+      fundo: '#E9D8C9'
     },
   ]
 
