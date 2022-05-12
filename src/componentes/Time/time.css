@@ -1,6 +1,7 @@
 .time {
     text-align: center;
     padding: 32px;
+    background-blend-mode: multiply;
 }
 
 .time h3 {
